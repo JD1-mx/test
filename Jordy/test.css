@@ -1,0 +1,14 @@
+
+body {
+    background: rgb(115,114,114);
+    background: radial-gradient(circle, rgba(115,114,114,1) 0%, rgba(23,23,23,1) 100%);
+}
+
+
+#desc {
+    font-size: 1rem;
+}
+
+#title {
+    font-size: .75rem;
+}
